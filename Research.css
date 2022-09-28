@@ -1,0 +1,408 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/20210926_2020aerial008_under5MB.jpg");
+  background-position: 50% 42.48%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 6.25rem;
+  font-family: DIN1451StdEngschrift;
+  margin: 180px auto 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5625rem;
+  margin: -10px 314px 60px 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 412px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 114px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 316px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 237px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3.75rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 149px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 128px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 45px auto 20px;
+} .u-section-3 {
+  background-image: none;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 1002px;
+}
+
+.u-section-3 .u-text-1 {
+  line-height: 1.8;
+  margin: 25px 0;
+}.u-section-4 .u-sheet-1 {
+  min-height: 703px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin-top: 30px;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-layout-cell-1 {
+  min-height: 116px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 81px 0 0;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 525px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-4 .u-image-1 {
+  height: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-4 .u-layout-cell-3 {
+  min-height: 537px;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 0 5px;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 0 25px 0 0;
+}
+
+.u-section-4 .u-text-3 {
+  margin: -643px 30px 601px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 537px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 96px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 433px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: NaNpx;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    min-height: 443px;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 396px;
+  }
+
+  .u-section-4 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 332px;
+  }
+
+  .u-section-4 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 735px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 591px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-3 {
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 501px;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 372px;
+  }
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 720px;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: 31px;
+  margin-bottom: 31px;
+}
+
+.u-section-5 .u-layout-cell-1 {
+  min-height: 110px;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-5 .u-text-2 {
+  margin: 9px 0 0;
+}
+
+.u-section-5 .u-layout-cell-2 {
+  min-height: 543px;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 0 5px;
+}
+
+.u-section-5 .u-image-1 {
+  width: 704px;
+  height: 177px;
+  margin: 9px auto 0;
+}
+
+.u-section-5 .u-text-3 {
+  margin: 31px 25px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 583px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 91px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 448px;
+  }
+
+  .u-section-5 .u-image-1 {
+    height: 178px;
+  }
+
+  .u-section-5 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-image-1 {
+    width: 530px;
+    height: 134px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-image-1 {
+    width: 330px;
+    height: 83px;
+  }
+}.u-section-6 .u-sheet-1 {
+  min-height: 854px;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  margin-top: 31px;
+  margin-bottom: 31px;
+}
+
+.u-section-6 .u-layout-cell-1 {
+  min-height: 118px;
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 0 30px;
+}
+
+.u-section-6 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-6 .u-text-2 {
+  margin: 9px 0 0;
+}
+
+.u-section-6 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-6 .u-layout-cell-2 {
+  min-height: 684px;
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding: 0 5px;
+}
+
+.u-section-6 .u-image-1 {
+  width: 704px;
+  height: 422px;
+  margin: 0 auto;
+}
+
+.u-section-6 .u-text-3 {
+  margin: 18px 25px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 583px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 97px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 564px;
+  }
+
+  .u-section-6 .u-text-3 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-image-1 {
+    width: 530px;
+    height: 318px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-image-1 {
+    width: 330px;
+    height: 198px;
+  }
+}@font-face {
+  font-family: 'DIN1451StdEngschrift';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/DIN1451StdEngschrift.otf);
+}
